@@ -1,0 +1,6 @@
+/fuzz.go
+/toml-fuzz.zip
+/workdir/corpus
+/workdir/crashers/*.output
+/workdir/crashers/*.quoted
+/workdir/suppressions
